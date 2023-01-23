@@ -8,6 +8,7 @@ Current projects:
 - Python Discord bot with the Discord and Amazon API.
 - Lua game.
 
+
 Project I want to start:
 - An AI personal assiastant.
 
