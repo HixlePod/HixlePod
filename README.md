@@ -1,12 +1,17 @@
 ### About me:
 
 I am currently working with Lua, Java and Python in a more advanced manner.
-I have learnt: Java, C#, Python and Lua.
+I have learnt: Java, C#, Python, Lua, HTML, JavaScript and CSS.
 
 Current projects:
 - Minecraft modded using Java.
 - Python Discord bot with the Discord and Amazon API.
 - Lua game.
+
+Project I want to start:
+- An AI personal assiastant.
+
+
 
 
 <!--
